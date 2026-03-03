@@ -1,0 +1,8 @@
+<!-- device_admin.xml -->
+<!-- Save as: app/src/main/res/xml/device_admin.xml -->
+<!-- ONLY uses lockNow() — no data wipe or other admin features -->
+<device-admin xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-policies>
+        <force-lock />
+    </uses-policies>
+</device-admin>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NOVA AI</string>
+    <string name="accessibility_service_label">NOVA AI Assistant</string>
+    <string name="accessibility_service_description">Allows NOVA to type text into input fields and assist with phone navigation using your voice commands.</string>
+    <string name="device_admin_description">Allows NOVA to lock your screen when you say "lock screen".</string>
+
+    <!-- Nav -->
+    <string name="nav_home">Home</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Buttons -->
+    <string name="btn_mic">Microphone</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_save">Save</string>
+
+    <!-- Prompts -->
+    <string name="hint_chat">Ask me anything...</string>
+    <string name="hint_api_key">sk-ant-api03-...</string>
+    <string name="hint_name">NOVA</string>
+    <string name="hint_wake">hey nova</string>
+
+    <!-- Languages -->
+    <string-array name="languages">
+        <item>English</item>
+        <item>हिंदी (Hindi)</item>
+        <item>বাংলা (Bengali)</item>
+    </string-array>
+</resources>
